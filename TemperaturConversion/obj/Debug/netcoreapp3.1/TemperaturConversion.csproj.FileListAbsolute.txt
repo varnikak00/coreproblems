@@ -1,0 +1,14 @@
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.exe
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.deps.json
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.runtimeconfig.json
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.runtimeconfig.dev.json
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.dll
+D:\day6 programs\TemperaturConversion\bin\Debug\netcoreapp3.1\TemperaturConversion.pdb
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.csproj.AssemblyReference.cache
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.AssemblyInfoInputs.cache
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.AssemblyInfo.cs
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.csproj.CoreCompileInputs.cache
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.dll
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.pdb
+D:\day6 programs\TemperaturConversion\obj\Debug\netcoreapp3.1\TemperaturConversion.genruntimeconfig.cache

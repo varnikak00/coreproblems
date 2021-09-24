@@ -1,0 +1,19 @@
+D:\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.csproj.AssemblyReference.cache
+D:\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.AssemblyInfoInputs.cache
+D:\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.AssemblyInfo.cs
+D:\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.csproj.CoreCompileInputs.cache
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.csproj.AssemblyReference.cache
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.AssemblyInfoInputs.cache
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.AssemblyInfo.cs
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.csproj.CoreCompileInputs.cache
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.exe
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.deps.json
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.runtimeconfig.json
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.runtimeconfig.dev.json
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.dll
+D:\day6 programs\CouponGenrator\CouponGenrator\bin\Debug\netcoreapp3.1\CouponGenrator.pdb
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.dll
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.pdb
+D:\day6 programs\CouponGenrator\CouponGenrator\obj\Debug\netcoreapp3.1\CouponGenrator.genruntimeconfig.cache

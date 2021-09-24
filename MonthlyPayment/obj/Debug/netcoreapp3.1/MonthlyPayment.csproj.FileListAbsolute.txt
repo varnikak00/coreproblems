@@ -1,0 +1,14 @@
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.exe
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.deps.json
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.runtimeconfig.json
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.runtimeconfig.dev.json
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.dll
+D:\day6 programs\MonthlyPayment\bin\Debug\netcoreapp3.1\MonthlyPayment.pdb
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.csproj.AssemblyReference.cache
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.GeneratedMSBuildEditorConfig.editorconfig
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.AssemblyInfoInputs.cache
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.AssemblyInfo.cs
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.csproj.CoreCompileInputs.cache
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.dll
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.pdb
+D:\day6 programs\MonthlyPayment\obj\Debug\netcoreapp3.1\MonthlyPayment.genruntimeconfig.cache
