@@ -1,0 +1,14 @@
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\day6 programs\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\day6 programs\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
